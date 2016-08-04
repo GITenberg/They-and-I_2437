@@ -1,0 +1,26 @@
+_repo: They-and-I_2437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: ''
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: They and I
+url: http://www.gutenberg.org/ebooks/2437
